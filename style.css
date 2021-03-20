@@ -4,6 +4,7 @@ section {
     padding: 5px 3px 2px 3px;
     border-right: 1.5px rgb(69, 6, 133) solid;
     margin-bottom: 15px;
+    
 }
 
 aside {
@@ -11,6 +12,7 @@ aside {
     width: 895px;
     vertical-align:top;
     padding: 0 15px 0 15px;
+    background-color: rgb(243, 190, 111);
 }
 
 
@@ -24,6 +26,8 @@ header {
     font-size: 36px;
     color: darkblue;
     padding: 12px 0 12px 0;
+    font-style: italic;
+    text-shadow: 1px 1px #9900ff;
 
 
 
@@ -41,11 +45,12 @@ body {
     line-height: 1.2em;
 
 }
-  ul{list-style:square outside;}
+  ul{list-style:disc outside;}
 
 h1,
 h3 {
     font-style: oblique;
+
 }
 
 
@@ -78,5 +83,5 @@ aside {
     vertical-align:top;
     padding: 0 20px 0 20px;
 }
-
+p{color: rgb(48, 2, 2);}
 
